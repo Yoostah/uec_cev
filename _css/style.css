@@ -68,7 +68,6 @@ div#interface table{
 
 div#interface td{
 	padding: 3px;
-	border: 1px black solid;
     text-align: center;
     
 }
@@ -124,6 +123,24 @@ div#interface table#lutador_dir{
 .T2 {
     background-color: crimson;
 }
+
+.btnLutador{
+    background: black;
+    color: white;
+    font-size: 10;
+    padding: 5 70;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 15px;
+    
+    
+}
+
+.btnLutador:hover {
+  background: #444;
+  
+}
+
 
 /* CSS RODAPÉ 
 -------------------*/
